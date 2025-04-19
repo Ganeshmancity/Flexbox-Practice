@@ -1,0 +1,17 @@
+body {
+  width: 500px;
+  height: 3000px;
+}
+dl {
+  max-height: 300px;
+  overflow: auto;
+}
+dt {
+  background-color: cadetblue;
+  color: black;
+  padding: 10px;
+  position: sticky;
+  top: 0;
+
+  margin: 1em 0;
+}
